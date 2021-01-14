@@ -305,7 +305,9 @@ footer h1{
 
 
 @media only screen and (max-width: 600px) {
-
+	nav{
+		display: none;
+	}
 	.circle1{
 		height: 50px;
 		width: 50px;
